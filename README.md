@@ -51,8 +51,7 @@ The IP collection contains over 3 million IP numbers that can be added by catego
   * Steven Black Blacklist
   * Mitchell Krog Blacklist
   * Nissar Chababy Blacklist
-  * EDan Pollock
-  * Daniel White
+  * Dan Pollock
   * Peter Lowe
   * OISD Basic
   * EP Crew
