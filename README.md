@@ -76,7 +76,6 @@ The hosts file contains lines of text consisting of an IP address in the first t
 
 0.0.0.0
 255.255.255.255
-::1
 ff00::0
 fe80::1
 ff02::2
