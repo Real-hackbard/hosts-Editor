@@ -73,6 +73,14 @@ The hosts file contains lines of text consisting of an IP address in the first t
 ```
 127.0.0.1  localhost loopback
 ::1        localhost
+
+0.0.0.0
+255.255.255.255
+::1
+ff00::0
+fe80::1
+ff02::2
+ff02::3
 ```
 
 This example only contains entries for the loopback addresses of the system and their host names, a typical default content of the hosts file. The example illustrates that an IP address may have multiple host names ([localhost](https://en.wikipedia.org/wiki/Localhost) and [loopback](https://en.wikipedia.org/wiki/Loopback)), and that a host name may be mapped to both IPv4 and IPv6 IP addresses, as shown on the first and second lines respectively.
