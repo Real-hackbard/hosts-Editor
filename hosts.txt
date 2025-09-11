@@ -1,0 +1,847 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 update.sft-loader.de
+
+#  blumentals Blocker #
+
+127.0.0.1 www.blumentals.net
+
+#  blumentals Blocker End #
+
+# Adobe Blocker #
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 na4r.services.adobe.com
+127.0.0.1 ims-na1-prprod.adobelogin.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 practivate.adobe.de
+127.0.0.1 209-34-83-73.ood.opsource.net
+127.0.0.1 3dns.adobe.com
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns-5.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sea.adobe.de
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 activate-sjc0.adobe.de
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.adobe.de
+127.0.0.1 activate.wip.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip3.adobe.de
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns.adobe.de
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-2.adobe.de
+127.0.0.1 adobe-dns-3.adobe.de
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 adobe.activate.com
+127.0.0.1 adobeereg.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.adobe.de
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 hl2rcv.adobe.de
+127.0.0.1 practivate.adobe
+127.0.0.1 practivate.adobe.ipp
+127.0.0.1 practivate.adobe.newoa
+127.0.0.1 practivate.adobe.ntp
+127.0.0.1 wip.adobe.com
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 s-2.adobe.com
+127.0.0.1 s-3.adobe.com
+127.0.0.1 wwis-dubc1-vip100.adobe.com #192.1100.8.100
+127.0.0.1 wwis-dubc1-vip101.adobe.com #192.1100.8.101
+127.0.0.1 wwis-dubc1-vip102.adobe.com #192.1100.8.102
+127.0.0.1 wwis-dubc1-vip103.adobe.com #192.1100.8.103
+127.0.0.1 wwis-dubc1-vip104.adobe.com #192.1100.8.104
+127.0.0.1 wwis-dubc1-vip105.adobe.com #192.1100.8.105
+127.0.0.1 wwis-dubc1-vip106.adobe.com #192.1100.8.106
+127.0.0.1 wwis-dubc1-vip107.adobe.com #192.1100.8.107
+127.0.0.1 wwis-dubc1-vip108.adobe.com #192.1100.8.108
+127.0.0.1 wwis-dubc1-vip109.adobe.com #192.1100.8.109
+127.0.0.1 wwis-dubc1-vip110.adobe.com #192.1110.8.110
+127.0.0.1 wwis-dubc1-vip111.adobe.com #192.1110.8.111
+127.0.0.1 wwis-dubc1-vip112.adobe.com #192.1110.8.112
+127.0.0.1 wwis-dubc1-vip113.adobe.com #192.1110.8.113
+127.0.0.1 wwis-dubc1-vip114.adobe.com #192.1110.8.114
+127.0.0.1 wwis-dubc1-vip115.adobe.com #192.1110.8.115
+127.0.0.1 wwis-dubc1-vip116.adobe.com #192.1110.8.116
+127.0.0.1 wwis-dubc1-vip117.adobe.com #192.1110.8.117
+127.0.0.1 wwis-dubc1-vip118.adobe.com #192.1110.8.118
+127.0.0.1 wwis-dubc1-vip119.adobe.com #192.1110.8.119
+127.0.0.1 wwis-dubc1-vip120.adobe.com #192.1120.8.120
+127.0.0.1 wwis-dubc1-vip121.adobe.com #192.1120.8.121
+127.0.0.1 wwis-dubc1-vip122.adobe.com #192.1120.8.122
+127.0.0.1 wwis-dubc1-vip123.adobe.com #192.1120.8.123
+127.0.0.1 wwis-dubc1-vip124.adobe.com #192.1120.8.124
+127.0.0.1 wwis-dubc1-vip125.adobe.com #192.1120.8.125
+127.0.0.1 wwis-dubc1-vip30.adobe.com #192.150.8.30
+127.0.0.1 wwis-dubc1-vip31.adobe.com #192.150.8.31
+127.0.0.1 wwis-dubc1-vip32.adobe.com #192.150.8.32
+127.0.0.1 wwis-dubc1-vip33.adobe.com #192.150.8.33
+127.0.0.1 wwis-dubc1-vip34.adobe.com #192.150.8.34
+127.0.0.1 wwis-dubc1-vip35.adobe.com #192.150.8.35
+127.0.0.1 wwis-dubc1-vip36.adobe.com #192.150.8.36
+127.0.0.1 wwis-dubc1-vip37.adobe.com #192.150.8.37
+127.0.0.1 wwis-dubc1-vip38.adobe.com #192.150.8.38
+127.0.0.1 wwis-dubc1-vip39.adobe.com #192.150.8.39
+127.0.0.1 wwis-dubc1-vip40.adobe.com #192.150.8.40
+127.0.0.1 wwis-dubc1-vip41.adobe.com #192.150.8.41
+127.0.0.1 wwis-dubc1-vip42.adobe.com #192.150.8.42
+127.0.0.1 wwis-dubc1-vip43.adobe.com #192.150.8.43
+127.0.0.1 wwis-dubc1-vip44.adobe.com #192.150.8.44
+127.0.0.1 wwis-dubc1-vip45.adobe.com #192.150.8.45
+127.0.0.1 wwis-dubc1-vip46.adobe.com #192.150.8.46
+127.0.0.1 wwis-dubc1-vip47.adobe.com #192.150.8.47
+127.0.0.1 wwis-dubc1-vip48.adobe.com #192.150.8.48
+127.0.0.1 wwis-dubc1-vip49.adobe.com #192.150.8.49
+127.0.0.1 wwis-dubc1-vip50.adobe.com #192.150.8.50
+127.0.0.1 wwis-dubc1-vip51.adobe.com #192.150.8.51
+127.0.0.1 wwis-dubc1-vip52.adobe.com #192.150.8.52
+127.0.0.1 wwis-dubc1-vip53.adobe.com #192.150.8.53
+127.0.0.1 wwis-dubc1-vip54.adobe.com #192.150.8.54
+127.0.0.1 wwis-dubc1-vip55.adobe.com #192.150.8.55
+127.0.0.1 wwis-dubc1-vip56.adobe.com #192.150.8.56
+127.0.0.1 wwis-dubc1-vip57.adobe.com #192.150.8.57
+127.0.0.1 wwis-dubc1-vip58.adobe.com #192.150.8.58
+127.0.0.1 wwis-dubc1-vip59.adobe.com #192.150.8.59
+127.0.0.1 wwis-dubc1-vip60.adobe.com #192.160.8.60
+127.0.0.1 wwis-dubc1-vip60.adobe.de
+127.0.0.1 wwis-dubc1-vip61.adobe.com #192.160.8.61
+127.0.0.1 wwis-dubc1-vip62.adobe.com #192.160.8.62
+127.0.0.1 wwis-dubc1-vip63.adobe.com #192.160.8.63
+127.0.0.1 wwis-dubc1-vip64.adobe.com #192.160.8.64
+127.0.0.1 wwis-dubc1-vip65.adobe.com #192.160.8.65
+127.0.0.1 wwis-dubc1-vip66.adobe.com #192.160.8.66
+127.0.0.1 wwis-dubc1-vip67.adobe.com #192.160.8.67
+127.0.0.1 wwis-dubc1-vip68.adobe.com #192.160.8.68
+127.0.0.1 wwis-dubc1-vip69.adobe.com #192.160.8.69
+127.0.0.1 wwis-dubc1-vip70.adobe.com #192.170.8.70
+127.0.0.1 wwis-dubc1-vip71.adobe.com #192.170.8.71
+127.0.0.1 wwis-dubc1-vip72.adobe.com #192.170.8.72
+127.0.0.1 wwis-dubc1-vip73.adobe.com #192.170.8.73
+127.0.0.1 wwis-dubc1-vip74.adobe.com #192.170.8.74
+127.0.0.1 wwis-dubc1-vip75.adobe.com #192.170.8.75
+127.0.0.1 wwis-dubc1-vip76.adobe.com #192.170.8.76
+127.0.0.1 wwis-dubc1-vip77.adobe.com #192.170.8.77
+127.0.0.1 wwis-dubc1-vip78.adobe.com #192.170.8.78
+127.0.0.1 wwis-dubc1-vip79.adobe.com #192.170.8.79
+127.0.0.1 wwis-dubc1-vip80.adobe.com #192.180.8.80
+127.0.0.1 wwis-dubc1-vip81.adobe.com #192.180.8.81
+127.0.0.1 wwis-dubc1-vip82.adobe.com #192.180.8.82
+127.0.0.1 wwis-dubc1-vip83.adobe.com #192.180.8.83
+127.0.0.1 wwis-dubc1-vip84.adobe.com #192.180.8.84
+127.0.0.1 wwis-dubc1-vip85.adobe.com #192.180.8.85
+127.0.0.1 wwis-dubc1-vip86.adobe.com #192.180.8.86
+127.0.0.1 wwis-dubc1-vip87.adobe.com #192.180.8.87
+127.0.0.1 wwis-dubc1-vip88.adobe.com #192.180.8.88
+127.0.0.1 wwis-dubc1-vip89.adobe.com #192.180.8.89
+127.0.0.1 wwis-dubc1-vip90.adobe.com #192.190.8.90
+127.0.0.1 wwis-dubc1-vip91.adobe.com #192.190.8.91
+127.0.0.1 wwis-dubc1-vip92.adobe.com #192.190.8.92
+127.0.0.1 wwis-dubc1-vip93.adobe.com #192.190.8.93
+127.0.0.1 wwis-dubc1-vip94.adobe.com #192.190.8.94
+127.0.0.1 wwis-dubc1-vip95.adobe.com #192.190.8.95
+127.0.0.1 wwis-dubc1-vip96.adobe.com #192.190.8.96
+127.0.0.1 wwis-dubc1-vip97.adobe.com #192.190.8.97
+127.0.0.1 wwis-dubc1-vip98.adobe.com #192.190.8.98
+127.0.0.1 wwis-dubc1-vip99.adobe.com #192.190.8.99
+
+# Adobe Blocker End # 
+
+#        Facebook Blocker Start        #
+
+127.0.0.2 www.facebook.com
+127.0.0.2 facebook.com
+127.0.0.2 apps.facebook.com
+127.0.0.2 developers.facebook.com
+127.0.0.2 m.facebook.com
+127.0.0.2 login.facebook.com
+127.0.0.2 blog.facebook.com
+127.0.0.2 business.facebook.com
+127.0.0.2 pixel.facebook.com
+127.0.0.2 upload.facebook.com
+127.0.0.2 mbasic.facebook.com
+127.0.0.2 touch.facebook.com
+127.0.0.2 zh-cn.facebook.com
+127.0.0.2 de-de.facebook.com
+127.0.0.2 fr-fr.facebook.com
+127.0.0.2 it-it.facebook.com
+127.0.0.2 pl-pl.facebook.com
+127.0.0.2 es-es.facebook.com
+127.0.0.2 pt-br.facebook.com
+127.0.0.2 es-la.facebook.com
+127.0.0.2 en-gb.facebook.com
+127.0.0.2 hu-hu.facebook.com
+127.0.0.2 tr-tr.facebook.com
+127.0.0.2 sv-se.facebook.com
+127.0.0.2 fr-ca.facebook.com
+127.0.0.2 zh-tw.facebook.com
+127.0.0.2 ja-jp.facebook.com
+127.0.0.2 cs-cz.facebook.com
+127.0.0.2 da-dk.facebook.com
+127.0.0.2 ro-ro.facebook.com
+127.0.0.2 el-gr.facebook.com
+127.0.0.2 nb-no.facebook.com
+127.0.0.2 th-th.facebook.com
+127.0.0.2 ar-ar.facebook.com
+127.0.0.2 id-id.facebook.com
+127.0.0.2 pt-pt.facebook.com
+127.0.0.2 fi-fi.facebook.com
+127.0.0.2 bg-bg.facebook.com
+127.0.0.2 sl-si.facebook.com
+127.0.0.2 ru-ru.facebook.com
+127.0.0.2 zh-hk.facebook.com
+127.0.0.2 ms-my.facebook.com
+127.0.0.2 fa-ir.facebook.com
+127.0.0.2 vi-vn.facebook.com
+127.0.0.2 sq-al.facebook.com
+127.0.0.2 sk-sk.facebook.com
+127.0.0.2 hr-hr.facebook.com
+127.0.0.2 ca-es.facebook.com
+127.0.0.2 sr-rs.facebook.com
+127.0.0.2 he-il.facebook.com
+127.0.0.2 et-ee.facebook.com
+127.0.0.2 en-pi.facebook.com
+127.0.0.2 mk-mk.facebook.com
+127.0.0.2 tl-ph.facebook.com
+127.0.0.2 ko-kr.facebook.com
+127.0.0.2 lv-lv.facebook.com
+127.0.0.2 uk-ua.facebook.com
+127.0.0.2 gl-es.facebook.com
+127.0.0.2 lt-lt.facebook.com
+
+#        Facebook Blocker End          #
+
+# Google Blocker #
+
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 googletagservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 ad-apac.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+
+# Google Blocker End #
+
+# Universal Ad Blocker Start #
+
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-apac.doubleclick.net
+0.0.0.0 googletagservices.com
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ggpht.com
+0.0.0.0 s3.buysellads.com
+0.0.0.0 stats.buysellads.com
+0.0.0.0 cdn.buysellads.com
+0.0.0.0 ads.buysellads.com
+0.0.0.0 srv.buysellads.com
+0.0.0.0 l.yimg.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 us.adserver.yahoo.com
+0.0.0.0 cdn.media.net
+0.0.0.0 mycdn.media.net
+0.0.0.0 contextual.media.net
+0.0.0.0 a.collective-media.net
+0.0.0.0 k.collective-media.net
+0.0.0.0 ads.adbrite.com
+0.0.0.0 cdn.bidvertiser.com
+0.0.0.0 bdv.bidvertiser.com
+0.0.0.0 ads.clicksor.com
+0.0.0.0 a.horsered.com
+0.0.0.0 dserving.cpminventory.com
+0.0.0.0 a.yesadsrv.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 cdn.technoratimedia.com
+0.0.0.0 d.adroll.com
+0.0.0.0 a.adroll.com
+0.0.0.0 s.adroll.com
+0.0.0.0 re.adroll.com
+0.0.0.0 c.adroll.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 showads.pubmatic.com
+0.0.0.0 track.pubmatic.com
+0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 cdn.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 nym1.ib.adnxs.com
+0.0.0.0 lax1.ib.adnxs.com
+0.0.0.0 scripts.chitika.net
+0.0.0.0 cdn.chitika.net
+0.0.0.0 s.skimresources.com
+0.0.0.0 pub.DynamicOxygen.com
+0.0.0.0 kona.kontera.com
+0.0.0.0 cdn5.tribalfusion.com
+0.0.0.0 a.tribalfusion.com
+0.0.0.0 cdnx.tribalfusion.com
+0.0.0.0 ads.tribalfusion.com
+0.0.0.0 adversalservers.com
+0.0.0.0 go.adversal.com
+0.0.0.0 ads1.qadabra.com
+0.0.0.0 g.adspeed.net
+0.0.0.0 syndication.exoclick.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 main.exoclick.com
+0.0.0.0 stats.exoclick.com
+0.0.0.0 custom.exoclick.com
+0.0.0.0 static-ssl.exoclick.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 beacon.rubiconproject.com
+0.0.0.0 tap.rubiconproject.com
+0.0.0.0 tap-cdn.rubiconproject.com
+0.0.0.0 tap2-cdn.rubiconproject.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 ads.juicyads.com
+0.0.0.0 ads.adxpansion.com
+0.0.0.0 ad2.adxpansion.com
+0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 ads.ero-advertising.com
+0.0.0.0 popads.ero-advertising.com
+0.0.0.0 pops.ero-advertising.com
+0.0.0.0 banners.ero-advertising.com
+0.0.0.0 ads.deliads.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 ad.turn.com
+0.0.0.0 cdn.turn.com
+0.0.0.0 r.turn.com
+0.0.0.0 solocpm.com
+0.0.0.0 ad.download.cnet.com
+0.0.0.0 adsyndication.msn.com
+0.0.0.0 b2.amimg.net
+0.0.0.0 c2.amimg.net
+0.0.0.0 n.amimg.net
+0.0.0.0 ads.planetactive.com
+0.0.0.0 s1.affinitymatrix.com
+0.0.0.0 cdn.atomex.net
+0.0.0.0 ads.atomex.net
+0.0.0.0 trk.atomex.net
+0.0.0.0 click.linksynergy.com
+0.0.0.0 ad.linksynergy.com
+0.0.0.0 adnetwork.linksynergy.com
+0.0.0.0 chicagotribune.us.intellitxt.com
+0.0.0.0 cbstv.us.intellitxt.com
+0.0.0.0 saratogian.us.intellitxt.com
+0.0.0.0 macombdaily.us.intellitxt.com
+0.0.0.0 gamedev.us.intellitxt.com
+0.0.0.0 webreferences.us.intellitxt.com
+0.0.0.0 softpedia.us.intellitxt.com
+0.0.0.0 ampclicks.com
+0.0.0.0 ad1.netshelter.net
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 content.yieldmanager.com
+0.0.0.0 ad.adserverplus.com
+0.0.0.0 adserver.adreactor.com
+0.0.0.0 cdn.adreactor.com
+0.0.0.0 ads.lfstmedia.com
+0.0.0.0 cdn.lfstmedia.com
+0.0.0.0 adsyndication.msn.com
+0.0.0.0 go.padsdelivery.com
+0.0.0.0 go.padstm.com
+0.0.0.0 delivery.trafficforce.com
+0.0.0.0 rpc-php.trafficfactory.biz
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 pt.trafficjunky.net
+0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 ads.contentabc.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 cdn1.ads.contentabc.com
+0.0.0.0 vz-cdn.contentabc.com
+0.0.0.0 go.adversal.com
+0.0.0.0 adversalservers.com
+0.0.0.0 popunder.adsrevenue.net
+0.0.0.0 popunder.paypopup.com
+0.0.0.0 popuptraffic.com
+0.0.0.0 ad.ad-flow.com
+0.0.0.0 ccontent.ad-flow.com
+0.0.0.0 cdn.taboolasyndication.com
+0.0.0.0 services.taboolasyndication.com
+0.0.0.0 netstorage.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 go.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 auditude.com
+0.0.0.0 ad.auditude.com
+0.0.0.0 ads.flipkart.com
+0.0.0.0 cdn.directrev.com
+0.0.0.0 ad.directrev.com
+0.0.0.0 xch.directrev.com
+0.0.0.0 code.rtbsystem.com
+0.0.0.0 proxy.rtbsystem.com
+0.0.0.0 ecpmrocks.com
+0.0.0.0 traffichaus.com
+0.0.0.0 syndication.traffichaus.com
+0.0.0.0 cdn1.traffichaus.com
+0.0.0.0 trafficoptimisr.com
+0.0.0.0 trafficstars.com
+0.0.0.0 rotator.trafficstars.com
+0.0.0.0 xhcdn.com
+0.0.0.0 trafficserving.com
+0.0.0.0 trafficforce.com
+0.0.0.0 delivery.trafficforce.com
+0.0.0.0 trafficjunky.net
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 servicer.mgid.com
+0.0.0.0 www.bnserving.com
+0.0.0.0 www.bnhtml.com
+0.0.0.0 static.pdn-1.com
+0.0.0.0 pussl10.com
+0.0.0.0 mellowads.com
+0.0.0.0 traffic.adxprts.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 ads.storaged.info
+0.0.0.0 cdn1.videolb2.pornxs.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 cdn1.ads.contentabc.com
+0.0.0.0 ads.cpxcenter.com
+0.0.0.0 bi.phncdn.com
+0.0.0.0 ci.phncdn.com
+0.0.0.0 cdn1d-static-shared.phncdn.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 syndication.exosrv.com
+0.0.0.0 tatic.exosrv.com
+0.0.0.0 delivery.impressionmonster.com
+0.0.0.0 delivery.impressionmonster.com
+0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 static.pdn-1.com
+0.0.0.0 go.oclasrv.com
+0.0.0.0 creative.wwwpromoter.com
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 p15810.clksite.com
+
+# Universal Ad Blocker End #
+
+# Nero Blocker #
+
+127.0.0.1       i2am.nero.com
+127.0.0.1       ocsp.globalsign.com
+127.0.0.1       ocsp2.globalsign.com
+127.0.0.1       iam.nero.com
+127.0.0.1       2.19.38.243
+
+# Nero Blocker End #
+
+# iO bit Blocker #
+
+127.0.0.1	www.asc55.iobit.com
+127.0.0.1	idb.iobit.com
+127.0.0.1	asc55.iobit.com
+127.0.0.1	is360.iobit.com
+127.0.0.1	asc.iobit.com
+127.0.0.1	pf.iobit.com
+
+# iO bit Blocker End #
+
+# twitter Blocker #
+
+0.0.0.0 www.twitter.com
+0.0.0.0 www.twittter.com
+0.0.0.0 www.twttr.com
+0.0.0.0 www.twitter.fr
+0.0.0.0 www.twitter.jp
+0.0.0.0 www.twitter.rs
+0.0.0.0 www.twitter.uz
+0.0.0.0 twitter.biz
+0.0.0.0 twitter.dk
+0.0.0.0 twitter.events
+0.0.0.0 twitter.ie
+0.0.0.0 twitter.je
+0.0.0.0 twitter.mobi
+0.0.0.0 twitter.nu
+0.0.0.0 twitter.pro
+0.0.0.0 twitter.su
+0.0.0.0 twitter.vn
+0.0.0.0 twitter.com
+0.0.0.0 *.twitter.com
+0.0.0.0 twitter.gd
+0.0.0.0 twitter.im
+0.0.0.0 twitter.hk
+0.0.0.0 twitter.jp
+0.0.0.0 twitter.ch
+0.0.0.0 twitter.pt
+0.0.0.0 twitter.rs
+0.0.0.0 www.twitter.com.br
+0.0.0.0 twitter.ae
+0.0.0.0 twitter.eus
+0.0.0.0 twitter.hk
+0.0.0.0 ns1.p34.dynect.net
+0.0.0.0 ns2.p34.dynect.net
+0.0.0.0 ns3.p34.dynect.net
+0.0.0.0 ns4.p34.dynect.net
+0.0.0.0 d01-01.ns.twtrdns.net
+0.0.0.0 d01-02.ns.twtrdns.net
+0.0.0.0 a.r06.twtrdns.net
+0.0.0.0 b.r06.twtrdns.net
+0.0.0.0 c.r06.twtrdns.net
+0.0.0.0 d.r06.twtrdns.net
+0.0.0.0 api-34-0-0.twitter.com
+0.0.0.0 api-47-0-0.twitter.com
+0.0.0.0 cheddar.twitter.com
+0.0.0.0 goldenglobes.twitter.com
+0.0.0.0 mx003.twitter.com
+0.0.0.0 pop-api.twitter.com
+0.0.0.0 spring-chicken-an.twitter.com
+0.0.0.0 spruce-goose-ae.twitter.com
+0.0.0.0 takeflight.twitter.com
+0.0.0.0 www2.twitter.com
+0.0.0.0 m.twitter.com
+0.0.0.0 mobile.twitter.com
+
+# Twitter Blocker end #
+
+# YouTube Blocker
+
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 s.ytimg.com
+0.0.0.0 ad.youtube.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 clients1.google.com
+0.0.0.0 dts.innovid.com
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pixel.moatads.com
+0.0.0.0 rtd.tubemogul.com
+0.0.0.0 s.innovid.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 clients.l.google.com
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 www-googletagmanager.l.google.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 files.adform.net
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 s.youtube.com
+0.0.0.0 2975c.v.fwmrm.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 analytic-google.com
+0.0.0.0 www.analytic-google.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 fwmrm.net
+0.0.0.0 innovid.com
+0.0.0.0 2mdn.net
+0.0.0.0 r8.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r8---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r6.sn-4g5ednll.googlevideo.com
+0.0.0.0 r6.sn-4g5edney.googlevideo.com
+0.0.0.0 r6.sn-4g5ednek.googlevideo.com
+0.0.0.0 r6.sn-4g5ednee.googlevideo.com
+0.0.0.0 r6.sn-4g5edn7e.googlevideo.com
+0.0.0.0 r6.sn-4g5e6nez.googlevideo.com
+0.0.0.0 r6---sn-4g5ednll.googlevideo.com
+0.0.0.0 r6---sn-4g5edney.googlevideo.com
+0.0.0.0 r6---sn-4g5ednek.googlevideo.com
+0.0.0.0 r6---sn-4g5ednee.googlevideo.com
+0.0.0.0 r6---sn-4g5edn7e.googlevideo.com
+0.0.0.0 r6---sn-4g5e6nez.googlevideo.com
+0.0.0.0 r5.sn-h0jeenek.googlevideo.com
+0.0.0.0 r5.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsz.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsy.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsr.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsl.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsd.googlevideo.com
+0.0.0.0 r5.sn-4g5edns6.googlevideo.com
+0.0.0.0 r5.sn-4g5ednly.googlevideo.com
+0.0.0.0 r5.sn-4g5edn7s.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nzl.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nze.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nz7.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nss.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r5.sn-4g5e6ns7.googlevideo.com
+0.0.0.0 r5.sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r5.sn-4g5e6nls.googlevideo.com
+0.0.0.0 r5.sn-4g5e6ney.googlevideo.com
+0.0.0.0 r5.sn-4g5e6n7r.googlevideo.com
+0.0.0.0 r5.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r5---sn-h0jeenek.googlevideo.com
+0.0.0.0 r5---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsz.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsy.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsr.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsl.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsd.googlevideo.com
+0.0.0.0 r5---sn-4g5edns6.googlevideo.com
+0.0.0.0 r5---sn-4g5ednly.googlevideo.com
+0.0.0.0 r5---sn-4g5edn7s.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nzl.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nze.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nz7.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nss.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r5---sn-4g5e6ns7.googlevideo.com
+0.0.0.0 r5---sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nls.googlevideo.com
+0.0.0.0 r5---sn-4g5e6ney.googlevideo.com
+0.0.0.0 r5---sn-4g5e6n7r.googlevideo.com
+0.0.0.0 r5---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r4.sn-4g5ednz7.googlevideo.com
+0.0.0.0 r4.sn-4g5ednsy.googlevideo.com
+0.0.0.0 r4.sn-4g5ednsk.googlevideo.com
+0.0.0.0 r4.sn-4g5ednsd.googlevideo.com
+0.0.0.0 r4---sn-4g5ednz7.googlevideo.com
+0.0.0.0 r4---sn-4g5ednsy.googlevideo.com
+0.0.0.0 r4---sn-4g5ednsk.googlevideo.com
+0.0.0.0 r4---sn-4g5ednsd.googlevideo.com
+0.0.0.0 r3.sn-4g5ednz7.googlevideo.com
+0.0.0.0 r3.sn-4g5ednss.googlevideo.com
+0.0.0.0 r3.sn-4g5ednsd.googlevideo.com
+0.0.0.0 r3.sn-4g5ednls.googlevideo.com
+0.0.0.0 r3.sn-4g5ednll.googlevideo.com
+0.0.0.0 r3.sn-4g5ednee.googlevideo.com
+0.0.0.0 r3.sn-4g5edned.googlevideo.com
+0.0.0.0 r3.sn-4g5edne7.googlevideo.com
+0.0.0.0 r3.sn-4g5edne6.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nzz.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nzs.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nle.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nld.googlevideo.com
+0.0.0.0 r3---sn-4g5ednz7.googlevideo.com
+0.0.0.0 r3---sn-4g5ednss.googlevideo.com
+0.0.0.0 r3---sn-4g5ednsd.googlevideo.com
+0.0.0.0 r3---sn-4g5ednls.googlevideo.com
+0.0.0.0 r3---sn-4g5ednll.googlevideo.com
+0.0.0.0 r3---sn-4g5ednee.googlevideo.com
+0.0.0.0 r3---sn-4g5edned.googlevideo.com
+0.0.0.0 r3---sn-4g5edne7.googlevideo.com
+0.0.0.0 r3---sn-4g5edne6.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nzz.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nzs.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nle.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nld.googlevideo.com
+0.0.0.0 r2.sn-hp57kn6e.googlevideo.com
+0.0.0.0 r2.sn-h0jeln7e.googlevideo.com
+0.0.0.0 r2.sn-h0jeener.googlevideo.com
+0.0.0.0 r2.sn-h0jeen76.googlevideo.com
+0.0.0.0 r2.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r2.sn-4g5ednly.googlevideo.com
+0.0.0.0 r2.sn-4g5ednls.googlevideo.com
+0.0.0.0 r2.sn-4g5ednle.googlevideo.com
+0.0.0.0 r2.sn-4g5ednee.googlevideo.com
+0.0.0.0 r2.sn-4g5edned.googlevideo.com
+0.0.0.0 r2.sn-4g5edn7y.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r2.sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r2.sn-4g5e6ney.googlevideo.com
+0.0.0.0 r2---sn-hp57kn6e.googlevideo.com
+0.0.0.0 r2---sn-h0jeln7e.googlevideo.com
+0.0.0.0 r2---sn-h0jeener.googlevideo.com
+0.0.0.0 r2---sn-h0jeen76.googlevideo.com
+0.0.0.0 r2---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r2---sn-4g5ednse.googlevideo.com
+0.0.0.0 r2---sn-4g5ednly.googlevideo.com
+0.0.0.0 r2---sn-4g5ednls.googlevideo.com
+0.0.0.0 r2---sn-4g5ednle.googlevideo.com
+0.0.0.0 r2---sn-4g5ednee.googlevideo.com
+0.0.0.0 r2---sn-4g5edned.googlevideo.com
+0.0.0.0 r2---sn-4g5edn7y.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nsz.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nsk.googlevideo.com
+0.0.0.0 r2---sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r2---sn-4g5e6ney.googlevideo.com
+0.0.0.0 r15.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r15---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r11.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r11---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r10.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r10---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r1.sn-h0jeln7e.googlevideo.com
+0.0.0.0 r1.sn-h0jeened.googlevideo.com
+0.0.0.0 r1.sn-h0jeen76.googlevideo.com
+0.0.0.0 r1.sn-4g5ednsd.googlevideo.com
+0.0.0.0 r1.sn-4g5ednly.googlevideo.com
+0.0.0.0 r1.sn-4g5ednll.googlevideo.com
+0.0.0.0 r1.sn-4g5edne6.googlevideo.com
+0.0.0.0 r1.sn-4g5e6nzz.googlevideo.com
+0.0.0.0 r1.sn-4g5e6nz7.googlevideo.com
+0.0.0.0 r1.sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r1.sn-4g5e6nez.googlevideo.com
+0.0.0.0 r1---sn-h0jeln7e.googlevideo.com
+0.0.0.0 r1---sn-h0jeened.googlevideo.com
+0.0.0.0 r1---sn-h0jeen76.googlevideo.com
+0.0.0.0 r1---sn-4g5ednsd.googlevideo.com
+0.0.0.0 r1---sn-4g5ednly.googlevideo.com
+0.0.0.0 r1---sn-4g5ednll.googlevideo.com
+0.0.0.0 r1---sn-4g5edne6.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nzz.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nz7.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nsy.googlevideo.com
+0.0.0.0 r1---sn-4g5e6ns7.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nez.googlevideo.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 r8.sn-n02xgoxufvg3-2gbs.googlevideo.com
+0.0.0.0 r8---sn-n02xgoxufvg3-2gbs.googlevideo.com
+0.0.0.0 r6.sn-4g5edne7.googlevideo.com
+0.0.0.0 r6---sn-4g5edne7.googlevideo.com
+0.0.0.0 r5.sn-hp57yn7y.googlevideo.com
+0.0.0.0 r5---sn-hp57yn7y.googlevideo.com
+0.0.0.0 r4.sn-h0jeln7l.googlevideo.com
+0.0.0.0 r4.sn-h0jeln7e.googlevideo.com
+0.0.0.0 r4.sn-h0jeened.googlevideo.com
+0.0.0.0 r4.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r4.sn-4g5edns7.googlevideo.com
+0.0.0.0 r4.sn-4g5ednly.googlevideo.com
+0.0.0.0 r4.sn-4g5ednld.googlevideo.com
+0.0.0.0 r4.sn-4g5edney.googlevideo.com
+0.0.0.0 r4.sn-4g5e6nzs.googlevideo.com
+0.0.0.0 r4.sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r4.sn-4g5e6nez.googlevideo.com
+0.0.0.0 r4---sn-h0jeln7l.googlevideo.com
+0.0.0.0 r4---sn-h0jeln7e.googlevideo.com
+0.0.0.0 r4---sn-h0jeened.googlevideo.com
+0.0.0.0 r4---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r4---sn-4g5edns7.googlevideo.com
+0.0.0.0 r4---sn-4g5ednly.googlevideo.com
+0.0.0.0 r4---sn-4g5ednld.googlevideo.com
+0.0.0.0 r4---sn-4g5edney.googlevideo.com
+0.0.0.0 r4---sn-4g5e6nzs.googlevideo.com
+0.0.0.0 r4---sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r4---sn-4g5e6nez.googlevideo.com
+0.0.0.0 r3.sn-4g5ednzz.googlevideo.com
+0.0.0.0 r3.sn-4g5ednsz.googlevideo.com
+0.0.0.0 r3.sn-4g5edns6.googlevideo.com
+0.0.0.0 r3.sn-4g5ednld.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nsr.googlevideo.com
+0.0.0.0 r3.sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r3---sn-4g5ednzz.googlevideo.com
+0.0.0.0 r3---sn-4g5ednsz.googlevideo.com
+0.0.0.0 r3---sn-4g5edns6.googlevideo.com
+0.0.0.0 r3---sn-4g5ednld.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nsr.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r2.sn-4g5ednse.googlevideo.com
+0.0.0.0 r2.sn-4g5ednld.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nzl.googlevideo.com
+0.0.0.0 r2.sn-4g5e6nez.googlevideo.com
+0.0.0.0 r2---sn-4g5ednld.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nzl.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nez.googlevideo.com
+0.0.0.0 r1.sn-4g5ednsr.googlevideo.com
+0.0.0.0 r1.sn-4g5ednsl.googlevideo.com
+0.0.0.0 r1.sn-4g5ednse.googlevideo.com
+0.0.0.0 r1.sn-4g5edned.googlevideo.com
+0.0.0.0 r1.sn-4g5e6ns7.googlevideo.com
+0.0.0.0 r1.sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r1.sn-4g5e6nl6.googlevideo.com
+0.0.0.0 r1.sn-4g5e6ne6.googlevideo.com
+0.0.0.0 r1---sn-4g5ednsr.googlevideo.com
+0.0.0.0 r1---sn-4g5ednsl.googlevideo.com
+0.0.0.0 r1---sn-4g5ednse.googlevideo.com
+0.0.0.0 r1---sn-4g5edned.googlevideo.com
+0.0.0.0 r1---sn-4g5e6ns6.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nl6.googlevideo.com
+0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
+
+# YouTube Blocker end #
